@@ -1,0 +1,21 @@
+body {
+	background-image: url(../img/);
+	background-position: center;
+	background-repeat:repeat-y;
+	color: #000;
+}
+h2 {
+	color: #666;
+}
+div{
+	background: #F6D8CE;
+	opacity: 0.9;
+	width: 50%;
+	height: 100%;
+	text-align: left;
+	padding: 20px;
+	margin-bottom: 10px;
+	border-radius:20px; 
+	-moz-border-radius:10px; /* Firefox */ 
+	-webkit-border-radius:10px; /* Safari y Chrome */ 
+}
